@@ -1,0 +1,5 @@
+﻿  Plat.cpp
+  LINK : H:\AM-1 Printing\ProjectEbuy\Debug\ProjectEbuy.exe not found or not built by the last incremental link; performing full link
+Plat.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  ProjectEbuy.vcxproj -> H:\AM-1 Printing\ProjectEbuy\Debug\ProjectEbuy.exe
+  ProjectEbuy.vcxproj -> H:\AM-1 Printing\ProjectEbuy\Debug\ProjectEbuy.pdb (Full PDB)
